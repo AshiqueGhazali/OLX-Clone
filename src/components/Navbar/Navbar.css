@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    padding: 1rem;
+    background: #eff1f3;
+}
+
+.location-input{
+    border: solid black 10px;
+    background: white;
+}
+
+.search-input{
+    background: white;
+}
